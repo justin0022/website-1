@@ -22,7 +22,7 @@ parcel ./**/*.html
 
 ### Build
 
-Builds the assets once, it also enabled minification and sets the `NODE_ENV=production` environment variable. See [Production](production.html) for more details.
+Builds the assets once, it also enables minification and sets the `NODE_ENV=production` environment variable. See [Production](production.html) for more details.
 
 ```bash
 parcel build index.html
